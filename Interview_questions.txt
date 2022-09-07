@@ -1,0 +1,21 @@
+Interview questions :
+1) Tell me about yourself
+2) Programming Question
+3) Websocket protocols
+4) why dont we use http/https with websocket.
+
+6) Why do you want to join this company
+7) In what role you are interested
+8) Problem faced during any project
+9) Works on any 3rd party API integrations
+
+
+12) How handle millions of requests
+13) How API authenticated ?
+
+
+16)what is REST protocol ?
+17)what benefit your company get from your developed code and how ?
+18)One API was provided, and interviewer ask to consume that API and asked logical questions based on that.
+19)Basic python concept based questions
+20)How to integrate 3rd party api and how ? Tell the process.
